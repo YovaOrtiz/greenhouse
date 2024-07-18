@@ -16,7 +16,7 @@ def hello_world():  # put application's code here
     return 'Invernadero inteligente!'
 
 
-@app.get("/humedad")
+@app.get("/datos")
 def obtener_datos_generales():
     #if estado_sistema != "Encendido":
     #    return jsonify(mensaje="Errror al obtener datos sistemas apagado"), 500
@@ -41,6 +41,33 @@ def encender_sistemas():
     print("encender sistemas")
     estado_sistema = "Encendido"
     return jsonify(mensaje="sistema encendido con exito")
+
+@app.get("/humedad")
+def optener_humedad():
+
+    print("Obteniendo humedad")
+    lectura = {"humedad":22}
+
+    return  jsonify(lectura)
+
+@app.get("/temperatura")
+def optener_temperatura():
+
+
+    lectura = {"temperatura":34}
+
+    return  jsonify(lectura)
+
+@app.get("/viento")
+def optener_viento():
+
+    lectura = {'viento':"32km"}
+
+    return  jsonify(lectura)
+
+
+
+
 
 
 if __name__ == '__main__':
