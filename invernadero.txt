@@ -1,0 +1,6 @@
+
+{'temperatura': 34, 'humedad': 22, 'viento': '32km', 'hora': '2024-07-17 19:07:25.974873'}
+{'temperatura': 34, 'humedad': 22, 'viento': '32km', 'hora': '2024-07-17 19:07:27.525945'}
+{'temperatura': 34, 'humedad': 22, 'viento': '32km', 'hora': '2024-07-17 19:07:28.186552'}
+{'temperatura': 34, 'humedad': 22, 'viento': '32km', 'hora': '2024-07-17 19:07:28.745661'}
+{'temperatura': 34, 'humedad': 22, 'viento': '32km', 'hora': '2024-07-17 19:07:29.462748'}

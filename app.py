@@ -1,3 +1,5 @@
+from datetime import datetime
+
 from flask import Flask, jsonify
 
 app = Flask(__name__)
@@ -7,6 +9,7 @@ app = Flask(__name__)
 estado_sistema = "apagado"
 consumo_luz = 0
 
+nombre_archivo_control = "invernadero.txt"
 
 @app.route('/')
 def hello_world():  # put application's code here
@@ -15,12 +18,14 @@ def hello_world():  # put application's code here
 
 @app.get("/humedad")
 def obtener_datos_generales():
-    if estado_sistema != "Encendido":
-        return jsonify(mensaje="Errror al obtener datos sistemas apagado"), 500
+    #if estado_sistema != "Encendido":
+    #    return jsonify(mensaje="Errror al obtener datos sistemas apagado"), 500
 
     print("Obteniendo temperatura")
-    return jsonify(temperatura=34, humedad=22, viento="32km")
-
+    lectura = {'temperatura':34, 'humedad':22, 'viento':"32km","hora": str(datetime.now())}
+    with  open(nombre_archivo_control, "a") as file:
+        file.write(str(lectura) + "\n")
+    return  jsonify(lectura)
 
 @app.get("/apagado")
 def apagar_sistema():
