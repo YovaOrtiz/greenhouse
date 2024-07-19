@@ -4,3 +4,8 @@
 {'temperatura': 34, 'humedad': 22, 'viento': '32km', 'hora': '2024-07-17 19:07:28.186552'}
 {'temperatura': 34, 'humedad': 22, 'viento': '32km', 'hora': '2024-07-17 19:07:28.745661'}
 {'temperatura': 34, 'humedad': 22, 'viento': '32km', 'hora': '2024-07-17 19:07:29.462748'}
+{'temperatura': 23.63, 'humedad': 49.03, 'viento': '29.86km', 'hora': '2024-07-18 18:20:06.059147'}
+{'temperatura': 32.3, 'humedad': 60.56, 'viento': '22.16km', 'hora': '2024-07-18 18:24:38.550272'}
+{'temperatura': 31.93, 'humedad': 42.1, 'viento': '47.14km', 'hora': '2024-07-18 18:24:59.205960', 'accion': 'Riego no necesario'}
+{'temperatura': 34.71, 'humedad': 69.76, 'viento': '44.57km', 'hora': '2024-07-18 18:25:01.942836', 'accion': 'Riego no necesario'}
+{'temperatura': 24.24, 'humedad': 25.02, 'viento': '49.92km', 'hora': '2024-07-18 18:25:06.628392', 'accion': 'Riego activado'}
