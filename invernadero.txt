@@ -9,3 +9,51 @@
 {'temperatura': 31.93, 'humedad': 42.1, 'viento': '47.14km', 'hora': '2024-07-18 18:24:59.205960', 'accion': 'Riego no necesario'}
 {'temperatura': 34.71, 'humedad': 69.76, 'viento': '44.57km', 'hora': '2024-07-18 18:25:01.942836', 'accion': 'Riego no necesario'}
 {'temperatura': 24.24, 'humedad': 25.02, 'viento': '49.92km', 'hora': '2024-07-18 18:25:06.628392', 'accion': 'Riego activado'}
+{'temperatura': 15.24, 'humedad': 45.57, 'viento': '42.12km', 'hora': '2024-07-20 21:04:46.973120'}
+{'temperatura': 28.83, 'humedad': 65.06, 'viento': '48.32km', 'hora': '2024-07-20 21:05:18.293519', 'accion': 'Riego no necesario'}
+{'temperatura': 21.75, 'humedad': 24.22, 'viento': '40.73km', 'hora': '2024-07-20 21:05:23.662894', 'accion': 'Riego activado'}
+{'temperatura': 27.51, 'humedad': 25.66, 'viento': '13.9km', 'hora': '2024-07-20 21:05:27.354207', 'accion': 'Riego activado'}
+{'temperatura': 21.91, 'humedad': 61.05, 'viento': '36.0km', 'hora': '2024-07-20 21:05:28.657204', 'accion': 'Riego no necesario'}
+{'temperatura': 22.64, 'humedad': 55.19, 'viento': '16.7km', 'hora': '2024-07-20 21:05:29.934532', 'accion': 'Riego no necesario'}
+{'temperatura': 32.77, 'humedad': 78.88, 'viento': '25.38km', 'hora': '2024-07-20 21:05:30.688807', 'accion': 'Riego no necesario'}
+{'temperatura': 21.81, 'humedad': 36.26, 'viento': '28.79km', 'hora': '2024-07-20 21:05:31.185296', 'accion': 'Riego no necesario'}
+{'temperatura': 34.43, 'humedad': 28.86, 'viento': '27.12km', 'hora': '2024-07-20 21:05:31.648976', 'accion': 'Riego activado'}
+{'temperatura': 23.05, 'humedad': 64.12, 'viento': '9.9km', 'hora': '2024-07-20 21:05:32.031639', 'accion': 'Riego no necesario'}
+{'temperatura': 34.75, 'humedad': 60.71, 'viento': '22.27km', 'hora': '2024-07-25 19:10:49.679982'}
+{'temperatura': 34.12, 'humedad': 75.62, 'viento': '5.99km', 'hora': '2024-07-25 19:12:19.622311'}
+{'zona_1': {'humedad': 65.21, 'riego': False}, 'zona_2': {'humedad': 37.93, 'riego': False}, 'zona_3': {'humedad': 27.45, 'riego': False}}
+{'zona_1': {'humedad': 68.81, 'riego': False}, 'zona_2': {'humedad': 23.72, 'riego': False}, 'zona_3': {'humedad': 35.62, 'riego': False}}
+{'zona_1': {'humedad': 75.61, 'riego': False}, 'zona_2': {'humedad': 55.28, 'riego': False}, 'zona_3': {'humedad': 41.65, 'riego': False}}
+{'zona_1': {'humedad': 64.03, 'riego': False}, 'zona_2': {'humedad': 76.06, 'riego': False}, 'zona_3': {'humedad': 52.99, 'riego': False}}
+{'zona_1': {'humedad': 65.04, 'riego': False}, 'zona_2': {'humedad': 53.32, 'riego': False}, 'zona_3': {'humedad': 31.43, 'riego': False}}
+{'zona_1': {'humedad': 75.21, 'riego': False}, 'zona_2': {'humedad': 65.57, 'riego': False}, 'zona_3': {'humedad': 79.55, 'riego': False}}
+{'zona_1': {'humedad': 71.05, 'riego': False}, 'zona_2': {'humedad': 70.66, 'riego': False}, 'zona_3': {'humedad': 54.43, 'riego': False}}
+{'zona_1': {'humedad': 48.79, 'riego': False}, 'zona_2': {'humedad': 22.59, 'riego': False}, 'zona_3': {'humedad': 41.85, 'riego': False}}
+{'zona_1': {'humedad': 55.45, 'riego': False}, 'zona_2': {'humedad': 20.64, 'riego': False}, 'zona_3': {'humedad': 24.35, 'riego': False}}
+{'zona_1': {'humedad': 29.62, 'riego': False}, 'zona_2': {'humedad': 54.53, 'riego': False}, 'zona_3': {'humedad': 62.78, 'riego': False}}
+{'zona_1': {'humedad': 27.13, 'riego': False}, 'zona_2': {'humedad': 43.68, 'riego': False}, 'zona_3': {'humedad': 79.81, 'riego': False}}
+{'zona_1': {'humedad': 79.69, 'riego': False}, 'zona_2': {'humedad': 79.58, 'riego': False}, 'zona_3': {'humedad': 71.74, 'riego': False}}
+{'zona_1': {'humedad': 37.44, 'riego': False}, 'zona_2': {'humedad': 52.0, 'riego': False}, 'zona_3': {'humedad': 38.34, 'riego': False}}
+{'zona_1': {'humedad': 30.14, 'riego': False}, 'zona_2': {'humedad': 66.3, 'riego': False}, 'zona_3': {'humedad': 70.86, 'riego': False}}
+{'zona_1': {'humedad': 28.99, 'riego': False}, 'zona_2': {'humedad': 72.9, 'riego': False}, 'zona_3': {'humedad': 55.35, 'riego': False}}
+{'zona_1': {'humedad': 43.02, 'riego': False}, 'zona_2': {'humedad': 33.29, 'riego': False}, 'zona_3': {'humedad': 76.52, 'riego': False}}
+{'zona_1': {'humedad': 39.7, 'riego': False}, 'zona_2': {'humedad': 70.17, 'riego': False}, 'zona_3': {'humedad': 44.2, 'riego': False}}
+{'zona_1': {'humedad': 79.39, 'riego': False}, 'zona_2': {'humedad': 23.31, 'riego': False}, 'zona_3': {'humedad': 50.18, 'riego': False}}
+{'zona_1': {'humedad': 27.97, 'riego': False}, 'zona_2': {'humedad': 36.9, 'riego': False}, 'zona_3': {'humedad': 34.94, 'riego': False}}
+{'zona_1': {'humedad': 44.28, 'riego': False}, 'zona_2': {'humedad': 58.83, 'riego': False}, 'zona_3': {'humedad': 34.7, 'riego': False}}
+{'zona_1': {'humedad': 37.56, 'riego': False}, 'zona_2': {'humedad': 49.26, 'riego': False}, 'zona_3': {'humedad': 72.5, 'riego': False}}
+{'zona_1': {'humedad': 69.8, 'riego': False}, 'zona_2': {'humedad': 66.3, 'riego': False}, 'zona_3': {'humedad': 70.92, 'riego': False}}
+{'zona_1': {'humedad': 56.69, 'riego': False}, 'zona_2': {'humedad': 74.87, 'riego': False}, 'zona_3': {'humedad': 68.31, 'riego': False}}
+{'zona_1': {'humedad': 45.47, 'riego': False}, 'zona_2': {'humedad': 63.05, 'riego': False}, 'zona_3': {'humedad': 44.27, 'riego': False}}
+{'zona_1': {'humedad': 73.39, 'riego': False}, 'zona_2': {'humedad': 74.12, 'riego': False}, 'zona_3': {'humedad': 69.98, 'riego': False}}
+{'zona_1': {'humedad': 48.38, 'riego': False}, 'zona_2': {'humedad': 57.25, 'riego': False}, 'zona_3': {'humedad': 26.25, 'riego': False}}
+{'zona_1': {'humedad': 30.57, 'riego': False}, 'zona_2': {'humedad': 56.08, 'riego': False}, 'zona_3': {'humedad': 70.88, 'riego': False}}
+{'zona_1': {'humedad': 45.32, 'riego': False}, 'zona_2': {'humedad': 60.47, 'riego': False}, 'zona_3': {'humedad': 22.95, 'riego': False}}
+{'zona_1': {'humedad': 52.2, 'riego': False}, 'zona_2': {'humedad': 30.04, 'riego': False}, 'zona_3': {'humedad': 74.44, 'riego': False}}
+{'zona_1': {'humedad': 56.27, 'riego': False}, 'zona_2': {'humedad': 61.59, 'riego': False}, 'zona_3': {'humedad': 34.82, 'riego': False}}
+{'zona_1': 'Riego no necesario', 'zona_2': 'Riego activado', 'zona_3': 'Riego no necesario', 'hora': '2024-07-25 19:13:52.315804'}
+{'zona_1': 'Riego activado', 'zona_2': 'Riego activado', 'zona_3': 'Riego no necesario', 'hora': '2024-07-25 19:14:03.983084'}
+{'zona_1': 'Riego activado', 'zona_2': 'Riego no necesario', 'zona_3': 'Riego no necesario', 'hora': '2024-07-25 19:14:05.136071'}
+{'zona_1': 'Riego no necesario', 'zona_2': 'Riego no necesario', 'zona_3': 'Riego no necesario', 'hora': '2024-07-25 19:14:06.023722'}
+{'zona_1': 'Riego activado', 'zona_2': 'Riego activado', 'zona_3': 'Riego no necesario', 'hora': '2024-07-25 19:14:06.617231'}
+{'zona_1': 'Riego no necesario', 'zona_2': 'Riego no necesario', 'zona_3': 'Riego no necesario', 'hora': '2024-07-25 19:14:07.512960'}
